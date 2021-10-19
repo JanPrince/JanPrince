@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JanPrince
+- 👋 Hi, I’m @janprince
 - 👀 I’m interested in Machine Learning, Web development.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on a project involving python and django.
