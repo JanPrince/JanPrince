@@ -17,7 +17,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janprince&layout=compact&theme=prussian&count_private=true&langs_count=10" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=janprince&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janprince&theme=prussian)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br />
 
