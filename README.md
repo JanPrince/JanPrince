@@ -14,13 +14,26 @@
 
 #### STATS
 <a href="https://github.com/janprince">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janprince&layout=compact&theme=prussian&count_private=true&langs_count=10" />
+  
 </a>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=janprince&theme=prussian">
 </p>
 <br />
+
+<!-- GitHub Profile Summary -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="janprince1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=janprince&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janprince&layout=compact&theme=prussian&count_private=true&langs_count=10" height=192px /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+
+
 
 #### Languages and Tools
 
@@ -46,6 +59,12 @@
 <a href="www.linkedin.com/in/janprince">
   <img align="left" alt="Jan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<br />
+
+<!-- Activity graph -->
+<img alt="janprince's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=janprince&theme=prussian&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 
 <!---
 JanPrince/JanPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
