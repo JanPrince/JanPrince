@@ -17,8 +17,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janprince&layout=compact&theme=prussian&count_private=true&langs_count=10" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janprince&theme=prussian)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janprince&theme=prussian">
+</p>
 <br />
 
 #### Languages and Tools
