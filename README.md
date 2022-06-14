@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janprince&label=Profile%20views&color=0e75b6&style=flat" alt="janprince" /> </p>
 
-### Hi there, I'm Prince <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Prince 🤓
 
 ### I'm a Student, AI enthusiast and a Software Developer.
 
