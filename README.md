@@ -23,9 +23,7 @@
 <br />
 
 <!-- GitHub Profile Summary -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
+<div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="janprince1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=janprince&show_icons=true&count_private=true&theme=prussian&hide_border=true" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janprince&layout=compact&theme=prussian&count_private=true&langs_count=10" height=192px /></a>
   <br/>
@@ -63,8 +61,6 @@
 <br />
 <br />
 
-<!-- Activity graph -->
-<img alt="janprince's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=janprince&theme=prussian&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
 <!---
