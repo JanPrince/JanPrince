@@ -7,7 +7,7 @@
 - 👀 Interested in Software Engineering, particularly ML.
 - 🌱 Currently stduying Machine Learning.
 - ❤️ Mostly involved in web development and machine learning projects
-- 💞️ Looking to collaborate on a project involving python, django, javascript and Deep Learning.
+- 💞️ Looking to collaborate on a project involving python, django, javascript, react and machine learning.
 - 📫 How to reach me: janprince002@gmail.com
 
 <br />
