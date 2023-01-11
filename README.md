@@ -2,10 +2,10 @@
 
 ### Hi there, I'm Prince 🤓
 
-### I'm a Student, AI Enthusiast and a Software Engineer.
+### A Software Engineer and an AI Enthusiast.
 
-- 👀 Interested in Software Engineering, particularly ML.
-- 🌱 Currently stduying Machine Learning.
+- 👀 Interested in Software Engineering, particularly Backend Engineering and ML.
+- 🌱 Currently swotting Machine Learning.
 - ❤️ Mostly involved in web development and machine learning projects
 - 💞️ Looking to collaborate on a project involving python, django, javascript, react and machine learning.
 - 📫 How to reach me: janprince002@gmail.com
