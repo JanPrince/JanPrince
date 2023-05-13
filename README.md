@@ -11,7 +11,7 @@
 </h2>
 
 
-### 🧑‍💻 **About Me**
+### 🧑‍💻 **ABOUT ME**
 - 👋 Passionate **Backend Developer** skilled in Python and JavaScript.
 - 📚 Currently diving deep into **Machine Learning** and AI.
 - 💻 Strong foundation in designing and implementing APIs, database schemas, and server-side logic.
@@ -21,16 +21,12 @@
 - ⚡ Fun fact: I'm a dedicated Yeagerist! 
 <br />
 
-#### STATS
-<a href="https://github.com/janprince">
-  
-</a>
-
-<p align="center">
+### **STATS**
+<!-- <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=janprince&theme=prussian">
 </p>
 <br />
-
+ -->
 <!-- GitHub Profile Summary -->
 <div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="janprince1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=janprince&show_icons=true&count_private=true&theme=prussian&hide_border=true" height="192px"/></a>
