@@ -11,7 +11,7 @@
 </h2>
 
 
-### 🧑‍💻 **ABOUT ME**
+### 🧑‍💻 **INFO**
 - 👋 Passionate **Backend Developer** skilled in Python and JavaScript.
 - 📚 Currently diving deep into **Machine Learning** and AI.
 - 💻 Strong foundation in designing and implementing APIs, database schemas, and server-side logic.
@@ -21,35 +21,6 @@
 - ⚡ Fun fact: I'm a dedicated Yeagerist! 
 <br />
 
-### **STATS**
-<!-- <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janprince&theme=prussian">
-</p>
-<br />
- -->
-<!-- GitHub Profile Summary -->
-<div align="center"> 
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="janprince1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=janprince&show_icons=true&count_private=true&theme=prussian&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janprince&layout=compact&theme=prussian&count_private=true&langs_count=10" height=192px /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/>
-</div>
-
-
-
-<br />
-
-#### Lets Connect
-<a href="https://twitter.com/janprince">
-  <img align="left" alt="Jan Prince | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/janprince">
-  <img align="left" alt="Jan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-<br />
 
 
 
