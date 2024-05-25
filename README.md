@@ -1,6 +1,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janprince&label=Profile%20views&color=0e75b6&style=flat" alt="janprince" /> </p>
 
-Hi , I'm Prince<br>
+## Tech Stack
+
+- **Languages:** C#, Python
+- **Frameworks:** ASP.NET Core, Django, Flask
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
+- **Tools & Technologies:** Docker, Kubernetes, RESTful APIs, GraphQL, RabbitMQ
+- **CI/CD:** Jenkins, GitHub Actions, Azure DevOps
+- **Cloud Services:** Azure, AWS
 
 
 
