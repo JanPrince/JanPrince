@@ -3,8 +3,9 @@
 ## Tech Stack
 
 - **Languages:** C#, Python
-- **Frameworks:** ASP.NET Core, Django, Flask
+- **Frameworks:** ASP.NET Core, Django, FastAPI, Flask
 - **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
+<!---
 - **Tools & Technologies:** Docker, Kubernetes, RESTful APIs, GraphQL, RabbitMQ
 - **CI/CD:** Jenkins, GitHub Actions, Azure DevOps
 - **Cloud Services:** Azure, AWS
